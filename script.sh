@@ -4,7 +4,7 @@ archive="/data/BackupCLI"
 repo="daily"
 cluster="couchbases://cb.g4g6gid6hsehih9a.cloud.couchbase.com"
 username="user"
-password="Asdf1234!"
+password="****"
 
 timestamp=$(date +"%Y-%m-%d_%H-%M-%S")
 backupRepoPath="$archive/$repo"
